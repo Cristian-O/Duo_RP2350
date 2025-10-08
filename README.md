@@ -2,4 +2,5 @@
 RP2350 development board for automation and user interaction, easy configuration and ease of use overall
 
 To do:
-\u2705
+ - [x] checked
+ - [ ] not checked
